@@ -22,7 +22,7 @@
 
 <p align="left">
 
-<a href="https://instagram.com/so89l__4s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sohil_ms____credo._" height="30" width="40" /></a>
+<a href="https://instagram.com/so89l_4s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sohil_ms____credo._" height="30" width="40" /></a>
 
 <a href="https://www.youtube.com/c/@techhackers2.031" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@techhackers2.031" height="30" width="40" /></a>
 
